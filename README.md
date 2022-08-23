@@ -1,4 +1,5 @@
-# CodeAlongSchedule
+# Schedule for Code Along
+Upcoming sessions for Graph Advocates Indexer special interest group 
 
 | Day | Time | Topic | Link(s) |
 | --- | --- | --- | --- |
@@ -10,3 +11,6 @@
 | September 11 | 1800 UTC | Deploying a containerized web application (Google Kubernetes Engine) | https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app |
 | September 17 | 1900 UTC | Deploying highly available PostgreSQL with GKE (Google Kubernetes Engine) | https://cloud.google.com/architecture/deploying-highly-available-postgresql-with-gke |
 | September 18 | 1800 UTC | Deploying a batch machine learning workload (Google Kubernetes Engine) | https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload |
+
+## Submit a suggestion
+Please open a new issue in the repo to submit any suggestions for code along content
