@@ -1,4 +1,5 @@
 ## Upcoming Sessions
+
 | Day | Time | Topic | 
 | --- | --- | --- | 
 | August 27 | 1800 UTC | [Configuring a Java Microservice with Kubernetes](https://kubernetes.io/docs/tutorials/configuration/configure-java-microservice/) |
@@ -14,6 +15,7 @@
 | October 8 | 1800 UTC | [Deploying a batch machine learning workload (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload) |
 
 ## Past Sessions
+
 | Day | Time | Topic | 
 | --- | --- | --- | 
 | August 20 | 2100 UTC | [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | 
