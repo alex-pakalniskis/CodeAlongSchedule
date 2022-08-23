@@ -1,5 +1,4 @@
-Upcoming Code Along sessions for Graph Advocates
-
+## Upcoming Sessions
 | Day | Time | Topic | 
 | --- | --- | --- | 
 | August 27 | 1800 UTC | [Configuring a Java Microservice with Kubernetes](https://kubernetes.io/docs/tutorials/configuration/configure-java-microservice/) |
@@ -14,5 +13,11 @@ Upcoming Code Along sessions for Graph Advocates
 | September 25 | 1800 UTC | [Deploying highly available PostgreSQL with GKE (Google Kubernetes Engine)](https://cloud.google.com/architecture/deploying-highly-available-postgresql-with-gke) |
 | October 8 | 1800 UTC | [Deploying a batch machine learning workload (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload) |
 
+## Past Sessions
+| Day | Time | Topic | 
+| --- | --- | --- | 
+| August 20 | 2100 UTC | [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | 
+| August 21 | 2000 UTC | [Toucan Protocol Subgraph Documentation](https://github.com/alex-pakalniskis/CodeAlong-ToucanProtocolSubgraphDocs) |
+
 ## Submit a suggestion
-Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/issues/new) to submit any suggestions for code along content
+Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/issues/new) to submit a suggestion for code along content
