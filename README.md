@@ -1,4 +1,4 @@
-# Schedule for Code Along
+# Schedule
 Upcoming sessions for Graph Advocates Indexer special interest group 
 
 | Day | Time | Topic | Link(s) |
