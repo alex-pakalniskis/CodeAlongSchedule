@@ -18,6 +18,8 @@
 | September 28 | 1500 UTC | [Visualizing metrics using Grafana (Prometheus)](https://prometheus.io/docs/tutorials/visualizing_metrics_using_grafana/) |
 | October 5 | 1500 UTC | [Alerting based on metrics (Prometheus)](https://prometheus.io/docs/tutorials/alerting_based_on_metrics/) |
 | October 8 | 1800 UTC | [Deploying a batch machine learning workload (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload) |
+| October 9 | 1800 UTC | [Getting started with Terraform on Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) |
+| October 15 | 1800 UTC | [Provisioning a Google Kubernetes Engine Cluster with Terraform](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes) |
 
 ## Past Sessions
 
