@@ -1,3 +1,7 @@
+## Where
+Graph AdvocatesDAO Discord: https://t.co/xYb6Fgb98n
+* 🎤-public-voice-chat
+
 ## Upcoming Sessions
 
 | Day | Time | Topic | 
