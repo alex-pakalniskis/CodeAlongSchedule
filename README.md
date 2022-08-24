@@ -1,5 +1,5 @@
 ## Where
-Graph AdvocatesDAO Discord: https://t.co/xYb6Fgb98n
+[Graph AdvocatesDAO Discord](https://t.co/xYb6Fgb98n)
 * 🎤-public-voice-chat
 
 ## Upcoming Sessions
