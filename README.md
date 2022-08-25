@@ -24,6 +24,12 @@
 | October 8 | 1800 UTC | [Deploying a batch machine learning workload (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload) |
 | October 9 | 1800 UTC | [Getting started with Terraform on Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) |
 | October 15 | 1800 UTC | [Provisioning a Google Kubernetes Engine Cluster with Terraform](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes) |
+| October 16 | 1800 UTC | [Setting up HTTP(S) Load Balancing with Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer) |
+| October 22 | 1800 UTC | [Container-native load balancing through Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/container-native-load-balancing) |
+| October 23 | 1800 UTC | [Configuring network policies for applications (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/network-policy) |
+| October 29 | 1800 UTC | [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/architecture/distributed-load-testing-using-gke) |
+| October 30 | 1800 UTC | [Optimizing resource usage in a multi-tenant GKE cluster using node auto-provisioning](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning) |
+
 
 ## Past Sessions
 
