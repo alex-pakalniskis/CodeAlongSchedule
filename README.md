@@ -37,7 +37,7 @@ Provide hands-on learning opportunities for Graph Advocates to build practical s
 * [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
 
 ## Who
-Alex Pakalniskis
+Sessions are guided by Alex Pakalniskis, a full-time engineer working in web2 and web3.
 * [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
 * [Twitter](https://twitter.com/alexpakalniskis)
 
