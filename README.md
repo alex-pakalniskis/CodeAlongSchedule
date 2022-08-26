@@ -30,6 +30,16 @@
 | October 29 | 1800 UTC | [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/architecture/distributed-load-testing-using-gke) |
 | October 30 | 1800 UTC | [Optimizing resource usage in a multi-tenant GKE cluster using node auto-provisioning](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning) |
 
+## Why
+Provide hands-on learning opportunities for Graph Advocates to build practical skills in:
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)
+* [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+* [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
+
+## Who
+Alex Pakalniskis
+* [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
+* [Twitter](https://twitter.com/alexpakalniskis)
 
 ## Past Sessions
 
