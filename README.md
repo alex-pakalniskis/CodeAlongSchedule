@@ -1,3 +1,4 @@
+# Code Along with Alex
 ## Where
 [Graph AdvocatesDAO Discord](https://t.co/xYb6Fgb98n)
 * 🎤-public-voice-chat
@@ -6,7 +7,6 @@
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| August 27 | 1800 UTC | [Configuring a Java Microservice with Kubernetes](https://kubernetes.io/docs/tutorials/configuration/configure-java-microservice/) |
 | August 28 | 1800 UTC | [Subgraph Documentation Generator](https://github.com/alex-pakalniskis/SubgraphSchemaEntitiesDocGenerator) |
 | August 31 | 1500 UTC | [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/) |
 | September 3 | 1800 UTC | [Configuring Redis using a ConfigMap (Kubernetes)](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) |
@@ -37,7 +37,7 @@ Provide hands-on learning opportunities for Graph Advocates to build practical s
 * [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
 
 ## Who
-Sessions are guided by Alex Pakalniskis, a full-time engineer working in web2 and web3.
+Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working in web2 and web3.
 * [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
 * [Twitter](https://twitter.com/alexpakalniskis)
 
@@ -47,6 +47,8 @@ Sessions are guided by Alex Pakalniskis, a full-time engineer working in web2 an
 | --- | --- | --- | 
 | August 20 | 2100 UTC | [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | 
 | August 21 | 2000 UTC | [Toucan Protocol Subgraph Documentation](https://github.com/alex-pakalniskis/CodeAlong-ToucanProtocolSubgraphDocs) |
+| August 27 | 1800 UTC | [Configuring a Java Microservice with Kubernetes](https://kubernetes.io/docs/tutorials/configuration/configure-java-microservice/) |
+
 
 ## Submit a suggestion
 Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/issues/new) to submit a suggestion for code along content
