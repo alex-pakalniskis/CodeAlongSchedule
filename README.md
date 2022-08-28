@@ -17,18 +17,7 @@
 | September 17 | 1900 UTC | [Deploying a stateless Linux application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/stateless-apps) |
 | September 18 | 1800 UTC | [Deploying a stateful application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/stateful-apps) | 
 | September 21 | 1500 UTC | [Instrumenting HTTP server written in Go (Prometheus)](https://prometheus.io/docs/tutorials/instrumenting_http_server_in_go/) | 
-| September 24 | 1800 UTC | [Migrating Ruby on Rails apps on Heroku to GKE (Google Kubernetes Engine)](https://cloud.google.com/architecture/migrating-ruby-on-rails-apps-on-heroku-to-gke) |
-| September 25 | 1800 UTC | [Deploying highly available PostgreSQL with GKE (Google Kubernetes Engine)](https://cloud.google.com/architecture/deploying-highly-available-postgresql-with-gke) |
-| September 28 | 1500 UTC | [Visualizing metrics using Grafana (Prometheus)](https://prometheus.io/docs/tutorials/visualizing_metrics_using_grafana/) |
-| October 5 | 1500 UTC | [Alerting based on metrics (Prometheus)](https://prometheus.io/docs/tutorials/alerting_based_on_metrics/) |
-| October 8 | 1800 UTC | [Deploying a batch machine learning workload (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload) |
-| October 9 | 1800 UTC | [Getting started with Terraform on Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) |
-| October 15 | 1800 UTC | [Provisioning a Google Kubernetes Engine Cluster with Terraform](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes) |
-| October 16 | 1800 UTC | [Setting up HTTP(S) Load Balancing with Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer) |
-| October 22 | 1800 UTC | [Container-native load balancing through Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/container-native-load-balancing) |
-| October 23 | 1800 UTC | [Configuring network policies for applications (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/network-policy) |
-| October 29 | 1800 UTC | [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/architecture/distributed-load-testing-using-gke) |
-| October 30 | 1800 UTC | [Optimizing resource usage in a multi-tenant GKE cluster using node auto-provisioning](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning) |
+
 
 ## Why
 Provide hands-on learning opportunities for Graph Advocates to build practical skills in:
@@ -41,6 +30,31 @@ Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working i
 * [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
 * [Twitter](https://twitter.com/alexpakalniskis)
 
+## Potential Sessions
+
+| Topic | 
+| --- | 
+| [Deploying highly available PostgreSQL with GKE (Google Kubernetes Engine)](https://cloud.google.com/architecture/deploying-highly-available-postgresql-with-gke) |
+| [Visualizing metrics using Grafana (Prometheus)](https://prometheus.io/docs/tutorials/visualizing_metrics_using_grafana/) |
+| [Alerting based on metrics (Prometheus)](https://prometheus.io/docs/tutorials/alerting_based_on_metrics/) |
+| [Deploying a batch machine learning workload (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload) |
+| [Getting started with Terraform on Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) |
+| [Provisioning a Google Kubernetes Engine Cluster with Terraform](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes) |
+| [Setting up HTTP(S) Load Balancing with Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer) |
+| [Container-native load balancing through Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/container-native-load-balancing) |
+| [Configuring network policies for applications (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/network-policy) |
+| [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/architecture/distributed-load-testing-using-gke) |
+| [Optimizing resource usage in a multi-tenant GKE cluster using node auto-provisioning](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning) |
+| [Substreams: Getting Started](https://substreams.streamingfast.io/developer-guide/overview) |
+| [Rust by Example: Hello World](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
+| [Rust by Example: Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) |
+| [Rust by Example: Custom Types](https://doc.rust-lang.org/stable/rust-by-example/custom_types.html) |
+| [Rust by Example: Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) |
+| [Rust by Example: Types](https://doc.rust-lang.org/stable/rust-by-example/types.html) | 
+
+## Submit a suggestion
+Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/issues/new) to submit a suggestion for code along content
+
 ## Past Sessions
 
 | Day | Time | Topic | 
@@ -48,7 +62,3 @@ Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working i
 | August 20 | 2100 UTC | [Learn Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) | 
 | August 21 | 2000 UTC | [Toucan Protocol Subgraph Documentation](https://github.com/alex-pakalniskis/CodeAlong-ToucanProtocolSubgraphDocs) |
 | August 27 | 1800 UTC | [Configuring a Java Microservice with Kubernetes](https://kubernetes.io/docs/tutorials/configuration/configure-java-microservice/) |
-
-
-## Submit a suggestion
-Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/issues/new) to submit a suggestion for code along content
