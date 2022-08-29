@@ -10,26 +10,25 @@
 | August 31 | 1500 UTC | [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/) |
 | September 3 | 1800 UTC | [Configuring Redis using a ConfigMap (Kubernetes)](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) |
 | September 4 | 1800 UTC | [Apply Pod Security Standards at the Cluster Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/) |
-| September 7 | 1500 UTC | [Understanding metric types (Prometheus)](https://prometheus.io/docs/tutorials/understanding_metric_types/) |
+| September 7 | 1500 UTC | [Rust by Example: Session 1](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
 | Septemer 10 | 1800 UTC | [Apply Pod Security Standards at the Namespace Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/ns-level-pss/) |
 | September 11 | 1800 UTC | [Deploying a containerized web application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app) |
-| September 17 | 1900 UTC | [Deploying a stateless Linux application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/stateless-apps) |
-| September 18 | 1800 UTC | [Deploying a stateful application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/stateful-apps) | 
-| September 21 | 1500 UTC | [Instrumenting HTTP server written in Go (Prometheus)](https://prometheus.io/docs/tutorials/instrumenting_http_server_in_go/) | 
+| September 17 | 1900 UTC | [Rust by Example: Session 2](TBD) |
+| September 18 | 1800 UTC | [Getting started with k0s](https://docs.k0sproject.io/v1.23.6+k0s.2/) |
 
 
 ## Why
-Provide hands-on learning opportunities for Graph Advocates to build practical skills in:
+Provide hands-on learning opportunities for Graph protocol community members to build practical skills in:
 * [DevOps](https://en.wikipedia.org/wiki/DevOps)
 * [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-* [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
+* [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 ## Who
 Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working in web2 and web3.
 * [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
 * [Twitter](https://twitter.com/alexpakalniskis)
 
-## Potential Sessions
+## Upcoming Topics
 
 | Topic | 
 | --- | 
@@ -45,7 +44,6 @@ Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working i
 | [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/architecture/distributed-load-testing-using-gke) |
 | [Optimizing resource usage in a multi-tenant GKE cluster using node auto-provisioning](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning) |
 | [Substreams: Getting Started](https://substreams.streamingfast.io/developer-guide/overview) |
-| [Rust by Example: Hello World](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
 | [Rust by Example: Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) |
 | [Rust by Example: Custom Types](https://doc.rust-lang.org/stable/rust-by-example/custom_types.html) |
 | [Rust by Example: Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) |
