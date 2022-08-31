@@ -7,7 +7,6 @@
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| August 31 | 1500 UTC | [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/) |
 | September 3 | 1800 UTC | [Configuring Redis using a ConfigMap (Kubernetes)](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) |
 | September 4 | 1800 UTC | [Apply Pod Security Standards at the Cluster Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/) |
 | September 7 | 1500 UTC | [Rust by Example: Session 1](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
@@ -15,14 +14,14 @@
 | September 11 | 1800 UTC | [Getting started with k0s](https://docs.k0sproject.io/v1.23.6+k0s.2/) |
 | September 17 | 1900 UTC | [Rust by Example: Session 2](TBD) |
 | September 18 | 1800 UTC | [Deploying a containerized web application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app) |
+| September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
 
 
 
 ## Why
 Provide hands-on learning opportunities for Graph protocol community members to build practical skills in:
-* [DevOps](https://en.wikipedia.org/wiki/DevOps)
-* [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-* [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)/[Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+* [Problem-solving with Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 ## Who
 Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working in web2 and web3.
@@ -61,4 +60,5 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | August 21 | 2000 UTC | [Toucan Protocol Subgraph Documentation](https://github.com/alex-pakalniskis/CodeAlong-ToucanProtocolSubgraphDocs) |
 | August 27 | 1800 UTC | [Configuring a Java Microservice with Kubernetes](https://kubernetes.io/docs/tutorials/configuration/configure-java-microservice/) |
 | August 28 | 1800 UTC | [Subgraph Documentation Generator](https://github.com/alex-pakalniskis/SubgraphSchemaEntitiesDocGenerator) |
+| August 31 | 1500 UTC | [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/) |
 
