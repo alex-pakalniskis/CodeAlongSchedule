@@ -15,6 +15,7 @@
 | September 17 | 1900 UTC | [Rust by Example: Session 2](TBD) |
 | September 18 | 1800 UTC | [Deploying a containerized web application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app) |
 | September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
+| September 25 | 1800 UTC | [Rust by Example: Session 3](TBD) |
 
 
 
