@@ -1,4 +1,5 @@
-# Code Along with Alex
+<img src="/assets/img/code-along-with-alex-logo.svg" width="25%">
+
 ## Where
 [Graph AdvocatesDAO Discord](https://t.co/xYb6Fgb98n)
 * 🎤-public-voice-chat
