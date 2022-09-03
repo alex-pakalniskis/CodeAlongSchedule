@@ -11,15 +11,15 @@ header {
   display: none !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #f59863 !important;
+// h1, h2, h3, h4, h5, h6 {
+//   color: #f59863 !important;
+// }
+
+a {
+  color: #8653e8 !important;
 }
 
+// th {
+//   border-bottom: 1px dashed #f59863 !important;
+// }
 
-th {
-  border-bottom: 1px dashed #f59863 !important;
-}
-
-li::marker {
-  color: #f59863 !important;
-}
