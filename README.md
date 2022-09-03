@@ -7,7 +7,6 @@
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| September 3 | 1800 UTC | [Configuring Redis using a ConfigMap (Kubernetes)](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) |
 | September 4 | 1800 UTC | [Apply Pod Security Standards at the Cluster Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/) |
 | September 7 | 1500 UTC | [Rust by Example: Session 1](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
 | September 10 | 1800 UTC | [Apply Pod Security Standards at the Namespace Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/ns-level-pss/) |
@@ -62,4 +61,5 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | August 27 | 1800 UTC | [Configuring a Java Microservice with Kubernetes](https://kubernetes.io/docs/tutorials/configuration/configure-java-microservice/) |
 | August 28 | 1800 UTC | [Subgraph Documentation Generator](https://github.com/alex-pakalniskis/SubgraphSchemaEntitiesDocGenerator) |
 | August 31 | 1500 UTC | [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/) |
+| September 3 | 1800 UTC | [Configuring Redis using a ConfigMap (Kubernetes)](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) |
 
