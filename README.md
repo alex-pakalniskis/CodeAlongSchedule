@@ -1,4 +1,4 @@
-<img src="/assets/img/code-along-with-alex-logo.svg" width="25%">
+![code-along-logo](/assets/img/code-along-with-alex-logo.svg)
 
 ## Where
 [Graph AdvocatesDAO Discord](https://t.co/xYb6Fgb98n)
