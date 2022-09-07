@@ -8,7 +8,6 @@
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| September 7 | 1500 UTC | [Rust by Example: Session 1](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
 | September 10 | 1800 UTC | [Apply Pod Security Standards at the Namespace Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/ns-level-pss/) |
 | September 11 | 1800 UTC | [Getting started with k0s](https://docs.k0sproject.io/v1.23.6+k0s.2/) |
 | September 17 | 1900 UTC | [Rust by Example: Session 2](TBD) |
@@ -63,5 +62,6 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | August 31 | 1500 UTC | [Getting Started with Prometheus](https://prometheus.io/docs/tutorials/getting_started/) |
 | September 3 | 1800 UTC | [Configuring Redis using a ConfigMap (Kubernetes)](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) |
 | September 4 | 1800 UTC | [Apply Pod Security Standards at the Cluster Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/) |
+| September 7 | 1500 UTC | [Rust by Example: Session 1](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
 
 
