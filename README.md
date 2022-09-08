@@ -8,10 +8,13 @@
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
+| September 9 | 1500 UTC | [Getting Started with Docker: Orientation and setup](https://docs.docker.com/get-started/) |
 | September 10 | 1800 UTC | [Apply Pod Security Standards at the Namespace Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/ns-level-pss/) |
 | September 11 | 1800 UTC | [Getting started with k0s](https://docs.k0sproject.io/v1.23.6+k0s.2/) |
-| September 17 | 1900 UTC | [Rust by Example: Session 2](TBD) |
+| September 13 | 1500 UTC | [Getting Started with Docker: Sample Application](https://docs.docker.com/get-started/02_our_app/) |
+| September 17 | 1900 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 | September 18 | 1800 UTC | [Deploying a containerized web application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app) |
+| September 23 | 1500 UTC | [Getting Started with Docker: Update the Application](https://docs.docker.com/get-started/03_updating_app/) |
 | September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
 | September 25 | 1800 UTC | [Rust by Example: Session 3](TBD) |
 
@@ -19,8 +22,8 @@
 
 ## Why
 Provide hands-on learning opportunities for Graph protocol community members to build practical skills in:
-* [DevOps](https://en.wikipedia.org/wiki/DevOps)/[Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-* [Problem-solving with Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
+* [DevOps](https://en.wikipedia.org/wiki/DevOps)/[Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)/[Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
+* [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 ## Who
 Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working in web2 and web3.
