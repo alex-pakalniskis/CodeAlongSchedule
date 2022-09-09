@@ -8,7 +8,6 @@
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| September 9 | 1500 UTC | [Getting Started with Docker: Orientation and setup](https://docs.docker.com/get-started/) |
 | September 10 | 1800 UTC | [Apply Pod Security Standards at the Namespace Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/ns-level-pss/) |
 | September 11 | 1800 UTC | [Getting started with k0s](https://docs.k0sproject.io/v1.23.6+k0s.2/) |
 | September 13 | 1500 UTC | [Getting Started with Docker: Sample Application](https://docs.docker.com/get-started/02_our_app/) |
@@ -17,6 +16,8 @@
 | September 23 | 1500 UTC | [Getting Started with Docker: Update the Application](https://docs.docker.com/get-started/03_updating_app/) |
 | September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
 | September 25 | 1800 UTC | [Rust by Example: Session 3](TBD) |
+| September 27 | 1500 UTC | [Getting Started with Docker: Share the application](https://docs.docker.com/get-started/04_sharing_app/) |
+| September 28 | 1500 UTC | [Rust by Example: Session 4](TBD) |
 
 
 
@@ -66,5 +67,6 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | September 3 | 1800 UTC | [Configuring Redis using a ConfigMap (Kubernetes)](https://kubernetes.io/docs/tutorials/configuration/configure-redis-using-configmap/) |
 | September 4 | 1800 UTC | [Apply Pod Security Standards at the Cluster Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/cluster-level-pss/) |
 | September 7 | 1500 UTC | [Rust by Example: Session 1](https://doc.rust-lang.org/stable/rust-by-example/hello.html) |
+| September 9 | 1500 UTC | [Getting Started with Docker: Orientation and setup](https://docs.docker.com/get-started/) |
 
 
