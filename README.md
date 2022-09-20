@@ -10,10 +10,7 @@
 | --- | --- | --- | 
 | September 23 | 1500 UTC | [Getting Started with Docker: Update the Application](https://docs.docker.com/get-started/03_updating_app/) |
 | September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
-| September 25 | 1800 UTC | [Rust by Example: Session 2](TBD) |
-| September 27 | 1500 UTC | [Getting Started with Docker: Share the application](https://docs.docker.com/get-started/04_sharing_app/) |
-| September 28 | 1500 UTC | [Rust by Example: Session 3](TBD) |
-
+| September 25 | 1800 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 
 
 ## Why
@@ -30,7 +27,8 @@ Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working i
 
 | Topic | 
 | --- | 
-| [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
+| [Getting Started with Docker: Share the application](https://docs.docker.com/get-started/04_sharing_app/) |
+| [Rust by Example: Session 3](TBD) |
 | [Deploying a containerized web application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app) |
 | [Deploying highly available PostgreSQL with GKE (Google Kubernetes Engine)](https://cloud.google.com/architecture/deploying-highly-available-postgresql-with-gke) |
 | [Visualizing metrics using Grafana (Prometheus)](https://prometheus.io/docs/tutorials/visualizing_metrics_using_grafana/) |
@@ -44,10 +42,7 @@ Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working i
 | [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/architecture/distributed-load-testing-using-gke) |
 | [Optimizing resource usage in a multi-tenant GKE cluster using node auto-provisioning](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning) |
 | [Substreams: Getting Started](https://substreams.streamingfast.io/developer-guide/overview) |
-| [Rust by Example: Primitives](https://doc.rust-lang.org/stable/rust-by-example/primitives.html) |
-| [Rust by Example: Custom Types](https://doc.rust-lang.org/stable/rust-by-example/custom_types.html) |
-| [Rust by Example: Variable Bindings](https://doc.rust-lang.org/stable/rust-by-example/variable_bindings.html) |
-| [Rust by Example: Types](https://doc.rust-lang.org/stable/rust-by-example/types.html) | 
+
 
 ## Submit a suggestion
 Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/issues/new) to submit a suggestion for code along content
