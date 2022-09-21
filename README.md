@@ -13,6 +13,12 @@
 | September 25 | 1800 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 | October 8 | 1800 UTC | [Kubernetes Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) | 
 | October 9 | 1800 UTC | [Rust by Example: Session 3](TBD) |
+| October 15 | 1800 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
+| October 16 | 1800 UTC | [Rust by Example: Session 4](TBD) | 
+| October 22 | 1800 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) |
+| October 23 | 1800 UTC | [Rust by Example: Session 5](TBD) |
+| October 29 | 1800 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
+| October 30 | 1800 UTC | [Rust by Example: Session 6](TBD) |
 
 
 ## Why
