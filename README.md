@@ -1,5 +1,11 @@
 ![code-along-logo](/assets/img/code-along-with-alex-logo.svg)
 
+## Who
+Sessions are guided by Alex Pakalniskis, an engineer working in web2 and web3
+* [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
+* [Twitter](https://twitter.com/alexpakalniskis)
+* [GitHub](https://github.com/alex-pakalniskis)
+
 ## Where
 [Graph AdvocatesDAO Discord](https://t.co/xYb6Fgb98n)
 * 🎤-public-voice-chat
@@ -8,50 +14,22 @@
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| September 23 | 1500 UTC | [Getting Started with Docker: Update the Application](https://docs.docker.com/get-started/03_updating_app/) |
+| September 23 | 1500 UTC | [Docker Example: Build your Python image](https://docs.docker.com/language/python/build-images/) |
 | September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
 | September 25 | 1800 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 | October 8 | 1800 UTC | [Kubernetes Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) | 
-| October 9 | 1800 UTC | [Rust by Example: Session 3](TBD) |
-| October 15 | 1800 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
-| October 16 | 1800 UTC | [Rust by Example: Session 4](TBD) | 
-| October 22 | 1800 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) |
-| October 23 | 1800 UTC | [Rust by Example: Session 5](TBD) |
-| October 29 | 1800 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
-| October 30 | 1800 UTC | [Rust by Example: Session 6](TBD) |
+| October 9 | 1800 UTC | [Docker Example: Run your Python image as a container (and following lessons)](https://docs.docker.com/language/python/run-containers/) |
+| October 15 | 1800 UTC | [Rust by Example: Session 3](TBD) | 
+| October 16 | 1800 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
+| October 22 | 1800 UTC | [Docker Python Example: Session 3](TBD) |
+| October 23 | 1800 UTC | [Rust by Example: Session 4](TBD) |
+| October 29 | 1800 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) |
+| October 30 | 1800 UTC | [Docker Python Example: Session 4 (if finished with Python, switch to Node.js)](TBD) |
+| November 5 | 1800 UTC | [Rust by Example: Session 6](TBD) |
+| November 6 | 1800 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
 
 
-## Why
-Provide hands-on learning opportunities for Graph protocol community members to build practical skills in:
-* [DevOps](https://en.wikipedia.org/wiki/DevOps)/[Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-* [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language))
-
-## Who
-Sessions are guided by Alex Pakalniskis, a Graph Advocate and engineer working in web2 and web3.
-* [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
-* [Twitter](https://twitter.com/alexpakalniskis)
-
-## Upcoming Topics
-
-| Topic | 
-| --- | 
-| [Getting Started with Docker: Share the application](https://docs.docker.com/get-started/04_sharing_app/) |
-| [Deploying a containerized web application (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app) |
-| [Deploying highly available PostgreSQL with GKE (Google Kubernetes Engine)](https://cloud.google.com/architecture/deploying-highly-available-postgresql-with-gke) |
-| [Visualizing metrics using Grafana (Prometheus)](https://prometheus.io/docs/tutorials/visualizing_metrics_using_grafana/) |
-| [Alerting based on metrics (Prometheus)](https://prometheus.io/docs/tutorials/alerting_based_on_metrics/) |
-| [Deploying a batch machine learning workload (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/batch-ml-workload) |
-| [Getting started with Terraform on Google Cloud](https://learn.hashicorp.com/collections/terraform/gcp-get-started) |
-| [Provisioning a Google Kubernetes Engine Cluster with Terraform](https://learn.hashicorp.com/tutorials/terraform/gke?in=terraform/kubernetes) |
-| [Setting up HTTP(S) Load Balancing with Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/http-balancer) |
-| [Container-native load balancing through Ingress (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/how-to/container-native-load-balancing) |
-| [Configuring network policies for applications (Google Kubernetes Engine)](https://cloud.google.com/kubernetes-engine/docs/tutorials/network-policy) |
-| [Distributed load testing using Google Kubernetes Engine](https://cloud.google.com/architecture/distributed-load-testing-using-gke) |
-| [Optimizing resource usage in a multi-tenant GKE cluster using node auto-provisioning](https://cloud.google.com/architecture/optimizing-resources-in-multi-tenant-gke-clusters-with-auto-provisioning) |
-| [Substreams: Getting Started](https://substreams.streamingfast.io/developer-guide/overview) |
-
-
-## Submit a suggestion
+## Request content
 Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/issues/new) to submit a suggestion for code along content
 
 ## Past Sessions
