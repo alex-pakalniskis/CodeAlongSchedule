@@ -1,7 +1,7 @@
 ![code-along-logo](/assets/img/code-along-with-alex-logo.svg)
 
 ## Who
-Sessions are guided by Alex Pakalniskis, an engineer working in web2 and web3
+Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), an engineer working in web2 and web3
 * [Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
 * [Twitter](https://twitter.com/alexpakalniskis)
 * [GitHub](https://github.com/alex-pakalniskis)
