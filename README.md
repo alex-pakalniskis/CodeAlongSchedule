@@ -29,7 +29,7 @@ Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), 
 
 ## Repositories for multi-session projects
 * [Rust by Example](https://github.com/alex-pakalniskis/CodeAlong-RustByExample)
-* [Containzerized Python app](https://github.com/alex-pakalniskis/CodeAlong-ContainerizedPythonApplication)
+* [Containerized Python Application](https://github.com/alex-pakalniskis/CodeAlong-ContainerizedPythonApplication)
 
 
 ## Request content
