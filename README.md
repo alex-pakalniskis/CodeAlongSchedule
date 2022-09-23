@@ -14,7 +14,6 @@ Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), 
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| September 23 | 1500 UTC | [Containzerized Python app: Build your Python image](https://docs.docker.com/language/python/build-images/) |
 | September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
 | September 25 | 1800 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 | October 8 | 1800 UTC | [Kubernetes Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) | 
@@ -52,3 +51,5 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | September 10 | 1800 UTC | [Apply Pod Security Standards at the Namespace Level (Kubernetes)](https://kubernetes.io/docs/tutorials/security/ns-level-pss/) |
 | September 11 | 1800 UTC | [Getting started with k0s](https://docs.k0sproject.io/v1.23.6+k0s.2/) |
 | September 13 | 1500 UTC | [Getting Started with Docker: Sample Application](https://docs.docker.com/get-started/02_our_app/) |
+| September 23 | 1500 UTC | [Containzerized Python app: Build your Python image](https://docs.docker.com/language/python/build-images/) |
+
