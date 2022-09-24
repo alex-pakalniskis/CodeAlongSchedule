@@ -14,18 +14,17 @@ Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), 
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
 | September 25 | 1800 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 | October 8 | 1800 UTC | [Kubernetes Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) | 
-| October 9 | 1800 UTC | [Containzerized Python app: Run your Python image as a container (and following lessons)](https://docs.docker.com/language/python/run-containers/) |
+| October 9 | 1900 UTC | [Containzerized Python app: Run your Python image as a container (and following lessons)](https://docs.docker.com/language/python/run-containers/) |
 | October 15 | 1800 UTC | [Rust by Example: Session 3](TBD) | 
-| October 16 | 1800 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
+| October 16 | 1900 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
 | October 22 | 1800 UTC | [Containzerized Python app: Session 3](TBD) |
-| October 23 | 1800 UTC | [Rust by Example: Session 4](TBD) |
+| October 23 | 1900 UTC | [Rust by Example: Session 4](TBD) |
 | October 29 | 1800 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) |
-| October 30 | 1800 UTC | [Containzerized Python app: Session 4 (if finished with Python, switch to another Docker topic)](TBD) |
+| October 30 | 1900 UTC | [Containzerized Python app: Session 4 (if finished with Python, switch to another Docker topic)](TBD) |
 | November 5 | 1800 UTC | [Rust by Example: Session 6](TBD) |
-| November 6 | 1800 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
+| November 6 | 1900 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
 
 ## Repositories for multi-session projects
 * [Rust by Example](https://github.com/alex-pakalniskis/CodeAlong-RustByExample)
@@ -52,4 +51,5 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | September 11 | 1800 UTC | [Getting started with k0s](https://docs.k0sproject.io/v1.23.6+k0s.2/) |
 | September 13 | 1500 UTC | [Getting Started with Docker: Sample Application](https://docs.docker.com/get-started/02_our_app/) |
 | September 23 | 1500 UTC | [Containzerized Python app: Build your Python image](https://docs.docker.com/language/python/build-images/) |
+| September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
 
