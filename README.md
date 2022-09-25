@@ -15,15 +15,15 @@ Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), 
 | Day | Time | Topic | 
 | --- | --- | --- | 
 | October 8 | 1800 UTC | [Kubernetes Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) | 
-| October 9 | 1900 UTC | [Containzerized Python app: Run your Python image as a container (and following lessons)](https://docs.docker.com/language/python/run-containers/) |
+| October 8 | 2000 UTC | [Containzerized Python app: Run your Python image as a container (and following lessons)](https://docs.docker.com/language/python/run-containers/) |
 | October 15 | 1800 UTC | [Rust by Example: Session 3](TBD) | 
-| October 16 | 1900 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
+| October 15 | 2000 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
 | October 22 | 1800 UTC | [Containzerized Python app: Session 3](TBD) |
-| October 23 | 1900 UTC | [Rust by Example: Session 4](TBD) |
+| October 22 | 2000 UTC | [Rust by Example: Session 4](TBD) |
 | October 29 | 1800 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) |
-| October 30 | 1900 UTC | [Containzerized Python app: Session 4 (if finished with Python, switch to another Docker topic)](TBD) |
+| October 29 | 2000 UTC | [Containzerized Python app: Session 4](TBD) |
 | November 5 | 1800 UTC | [Rust by Example: Session 6](TBD) |
-| November 6 | 1900 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
+| November 5 | 2000 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
 
 ## Repositories for multi-session projects
 * [Rust by Example](https://github.com/alex-pakalniskis/CodeAlong-RustByExample)
