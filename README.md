@@ -15,7 +15,7 @@ Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), 
 | Day | Time | Topic | 
 | --- | --- | --- | 
 | October 8 | 1800 UTC | [Kubernetes Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) | 
-| October 8 | 2000 UTC | [Containzerized Python app: Run your Python image as a container (and following lessons)](https://docs.docker.com/language/python/run-containers/) |
+| October 8 | 2000 UTC | [Containzerized Python app: Run your Python image as a container](https://docs.docker.com/language/python/run-containers/) |
 | October 15 | 1800 UTC | [Rust by Example: Session 3](TBD) | 
 | October 15 | 2000 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
 | October 22 | 1800 UTC | [Containzerized Python app: Session 3](TBD) |
