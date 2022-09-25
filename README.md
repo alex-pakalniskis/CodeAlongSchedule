@@ -14,7 +14,6 @@ Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), 
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| September 25 | 1800 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 | October 8 | 1800 UTC | [Kubernetes Example: Deploying PHP Guestbook application with Redis](https://kubernetes.io/docs/tutorials/stateless-application/guestbook/) | 
 | October 9 | 1900 UTC | [Containzerized Python app: Run your Python image as a container (and following lessons)](https://docs.docker.com/language/python/run-containers/) |
 | October 15 | 1800 UTC | [Rust by Example: Session 3](TBD) | 
@@ -52,4 +51,5 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | September 13 | 1500 UTC | [Getting Started with Docker: Sample Application](https://docs.docker.com/get-started/02_our_app/) |
 | September 23 | 1500 UTC | [Containzerized Python app: Build your Python image](https://docs.docker.com/language/python/build-images/) |
 | September 24 | 1800 UTC | [Introduction to Helm](https://helm.sh/docs/intro/) |
+| September 25 | 1800 UTC | [Rust by Example: Session 2](https://doc.rust-lang.org/stable/rust-by-example/hello/print/print_display.html) |
 
