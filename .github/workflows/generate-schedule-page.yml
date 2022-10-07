@@ -1,8 +1,9 @@
 name: generate-schedule-page
 
 on: 
-  schedule:
-    - cron: '0 8 * * *' # runs at 8:00 UTC everyday
+#   schedule:
+#     - cron: '0 8 * * *' # runs at 8:00 UTC everyday
+  workflow_dispatch
 jobs:
   build:
     runs-on: ubuntu-latest
