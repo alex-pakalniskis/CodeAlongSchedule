@@ -23,7 +23,7 @@ def generate():
         markdown += f"""| --- | --- | --- | \n"""
         
         for _ , row in upcoming_sessions.iterrows():
-            markdown += f"""| {row["Date"]} | {row["Time"]} | {row["Topic"]} | \n"""
+            markdown += f"""| {row["Date"]} | {row["Time"]} | [{row["Topic"]}]({row["Link"]}) | \n"""
         markdown += f"""\n"""
 
         # Add repo information
@@ -41,7 +41,7 @@ def generate():
         markdown += f"""| --- | --- | --- | \n"""
 
         for _ , row in past_sessions.iterrows():
-            markdown += f"""| {row["Date"]} | {row["Time"]} | {row["Topic"]} | \n"""
+            markdown += f"""| {row["Date"]} | {row["Time"]} | [{row["Topic"]}]({row["Link"]}) | \n"""
         markdown += f"""\n"""
 
         # Save markdown file
