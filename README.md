@@ -18,12 +18,18 @@ Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), 
 | October 8 | 2000 UTC | [Containzerized Python app: Run your Python image as a container](https://docs.docker.com/language/python/run-containers/) |
 | October 15 | 1800 UTC | [Rust by Example: Session 3](TBD) | 
 | October 15 | 2000 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
-| October 22 | 1800 UTC | [Containzerized Python app: Session 3](TBD) |
-| October 22 | 2000 UTC | [Rust by Example: Session 4](TBD) |
-| October 29 | 1800 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) |
-| October 29 | 2000 UTC | [Containzerized Python app: Session 4](TBD) |
-| November 5 | 1800 UTC | [Rust by Example: Session 6](TBD) |
-| November 5 | 2000 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
+| October 22 | 1700 UTC | [Julia: Getting Started (and following modules until we run out of time)](https://docs.julialang.org/en/v1/manual/getting-started/) |
+| October 22 | 1900 UTC | [Docker Example: Python app session 3](https://github.com/alex-pakalniskis/CodeAlong-ContainerizedPythonApplication) |
+| October 29 | 1700 UTC | [Rust by Example: Session 4](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) |
+| October 29 | 1900 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) |
+| November 5 | 1700 UTC | [Julia: Session 2](https://docs.julialang.org/en/v1/) |
+| November 5 | 1900 UTC | [Docker Example: Python app session 4](https://github.com/alex-pakalniskis/CodeAlong-ContainerizedPythonApplication) |
+| November 12 | 1700 UTC | [Rust by Example: Session 5](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) |
+| November 12 | 1900 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) |
+| November 19 | 1700 UTC | [Julia: Session 3](https://docs.julialang.org/en/v1/) |
+| November 19 | 1900 UTC | [Docker Example: Python app session 5](https://github.com/alex-pakalniskis/CodeAlong-ContainerizedPythonApplication) |
+
+
 
 ## Repositories for multi-session projects
 * [Rust by Example](https://github.com/alex-pakalniskis/CodeAlong-RustByExample)
