@@ -1,8 +1,7 @@
 ![code-along-logo](/assets/img/code-along-with-alex-logo.svg)
 
 ## Who
-Sessions are guided by [Alex Pakalniskis](https://alex-pakalniskis.github.io/), an engineer working in web2 and web3
-* [My links](https://barracuda.io/paka)
+Sessions are guided by [Alex Pakalniskis](https://barracuda.io/paka), an engineer working in web2 and web3
 
 ## Where
 [Graph AdvocatesDAO Discord](https://t.co/xYb6Fgb98n)
