@@ -11,8 +11,6 @@ Sessions are guided by [Alex Pakalniskis](https://barracuda.io/paka), an enginee
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| 2022-10-22 | 1700 UTC | [Julia: Getting Started (and following modules until we run out of time)](https://docs.julialang.org/en/v1/manual/getting-started/) | 
-| 2022-10-22 | 1900 UTC | [Docker Example: Configure CI/CD for your application](https://docs.docker.com/language/python/configure-ci-cd/) | 
 | 2022-10-29 | 1700 UTC | [Rust by Example: Session 4](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
 | 2022-10-29 | 1900 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) | 
 | 2022-11-05 | 1700 UTC | [Julia: Session 2](https://docs.julialang.org/en/v1/) | 
@@ -52,4 +50,6 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | 2022-10-08 | 2000 UTC | [Docker Example: Run your Python image as a container](https://docs.docker.com/language/python/run-containers/) | 
 | 2022-10-15 | 1800 UTC | [Rust by Example: Session 3](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
 | 2022-10-15 | 2000 UTC | [Kubernetes Example: Deploying WordPress and MySQL with Persistent Volumes](https://kubernetes.io/docs/tutorials/stateful-application/mysql-wordpress-persistent-volume/) | 
+| 2022-10-22 | 1700 UTC | [Julia: Getting Started (and following modules until we run out of time)](https://docs.julialang.org/en/v1/manual/getting-started/) | 
+| 2022-10-22 | 1900 UTC | [Docker Example: Configure CI/CD for your application](https://docs.docker.com/language/python/configure-ci-cd/) | 
 
