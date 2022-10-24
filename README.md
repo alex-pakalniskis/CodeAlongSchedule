@@ -15,10 +15,12 @@ Sessions are guided by [Alex Pakalniskis](https://barracuda.io/paka), an enginee
 | 2022-10-29 | 1900 UTC | [Kubernetes Example: Deploying Cassandra with a StatefulSet](https://kubernetes.io/docs/tutorials/stateful-application/cassandra/) | 
 | 2022-11-05 | 1700 UTC | [Julia: Session 2](https://docs.julialang.org/en/v1/) | 
 | 2022-11-05 | 1900 UTC | [Docker Example: Deploying Docker containers on Azure](https://docs.docker.com/cloud/aci-integration/) | 
-| 2022-11-12 | 1700 UTC | [Rust by Example: Session 5](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
-| 2022-11-12 | 1900 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) | 
-| 2022-11-19 | 1700 UTC | [Julia: Session 3](https://docs.julialang.org/en/v1/) | 
-| 2022-11-19 | 1900 UTC | [Kubernetes Example: Prepare an application for Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app) | 
+| 2022-11-12 | 1600 UTC | [Rust by Example: Session 5](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
+| 2022-11-12 | 1800 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) | 
+| 2022-11-19 | 1600 UTC | [Julia: Session 3](https://docs.julialang.org/en/v1/) | 
+| 2022-11-19 | 1800 UTC | [Docker Example: Deploying Docker containers on AWS](https://docs.docker.com/cloud/ecs-integration/) | 
+| 2022-11-26 | 1600 UTC | [Rust by Example: Session 6](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
+| 2022-11-26 | 1800 UTC | [AssemblyScript: Session 1](https://www.assemblyscript.org/introduction.html) | 
 
 ## Repositories for multi-session projects
 * [Rust by Example](https://github.com/alex-pakalniskis/CodeAlong-RustByExample)
