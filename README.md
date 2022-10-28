@@ -16,11 +16,13 @@ Sessions are guided by [Alex Pakalniskis](https://barracuda.io/paka), an enginee
 | 2022-11-05 | 1700 UTC | [Julia: Session 2](https://docs.julialang.org/en/v1/) | 
 | 2022-11-05 | 1900 UTC | [Docker Example: Deploying Docker containers on Azure](https://docs.docker.com/cloud/aci-integration/) | 
 | 2022-11-12 | 1600 UTC | [Rust by Example: Session 5](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
-| 2022-11-12 | 1800 UTC | [Kubernetes Example: Using Source IP](https://kubernetes.io/docs/tutorials/services/source-ip/) | 
+| 2022-11-12 | 1800 UTC | [React: Session 1](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started) | 
 | 2022-11-19 | 1600 UTC | [Julia: Session 3](https://docs.julialang.org/en/v1/) | 
-| 2022-11-19 | 1800 UTC | [Docker Example: Deploying Docker containers on AWS](https://docs.docker.com/cloud/ecs-integration/) | 
-| 2022-11-26 | 1600 UTC | [Rust by Example: Session 6](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
-| 2022-11-26 | 1800 UTC | [AssemblyScript: Session 1](https://www.assemblyscript.org/introduction.html) | 
+| 2022-11-19 | 1800 UTC | [Rust by Example: Session 6](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
+| 2022-11-26 | 1600 UTC | [React: Session 2](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning) | 
+| 2022-11-26 | 1800 UTC | [Julia: Session 4](https://docs.julialang.org/en/v1/) | 
+| 2022-12-03 | 1600 UTC | [Rust by Example: Session 6](https://github.com/alex-pakalniskis/CodeAlong-RustByExample) | 
+| 2022-12-03 | 1800 UTC | [React: Session 3](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components) | 
 
 ## Repositories for multi-session projects
 * [Rust by Example](https://github.com/alex-pakalniskis/CodeAlong-RustByExample)
