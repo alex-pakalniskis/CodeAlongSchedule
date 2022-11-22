@@ -11,7 +11,6 @@ Sessions are guided by [Alex Pakalniskis](https://barracuda.io/paka), an enginee
 
 | Day | Time | Topic | 
 | --- | --- | --- | 
-| 2022-11-21 | 1600 UTC | [Rust Hangout](nan) | 
 | 2022-11-26 | 1600 UTC | [React: Session 3](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components) | 
 | 2022-11-26 | 1800 UTC | [TBD](TBD) | 
 
@@ -55,4 +54,5 @@ Please [open a new issue](https://github.com/alex-pakalniskis/CodeAlongSchedule/
 | 2022-11-14 | 1600 UTC | [Rust Hangout](nan) | 
 | 2022-11-19 | 1600 UTC | [React: Session 2](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_todo_list_beginning) | 
 | 2022-11-19 | 1800 UTC | [Julia: Session 4](https://docs.julialang.org/en/v1/) | 
+| 2022-11-21 | 1600 UTC | [Rust Hangout](nan) | 
 
