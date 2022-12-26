@@ -2,7 +2,7 @@ name: generate-schedule-page
 
 on: 
   schedule:
-    - cron: '0 8 * * *' # runs at 8:00 UTC everyday
+    - cron: '0 0 0' # runs at 8:00 UTC everyday
 
 jobs:
   build:
